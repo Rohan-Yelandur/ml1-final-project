@@ -1,7 +1,6 @@
 # Social Media Bot Detection
 
-This project implements various machine learning algorithms to detect fake social media accounts among
-real users.
+This project implements various machine learning algorithms to detect fake social media accounts among real users.
 
 # Datasets
 

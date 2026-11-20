@@ -2,6 +2,10 @@
 
 This project implements various machine learning algorithms to detect fake social media accounts among real users.
 
+# Git Repo
+
+https://github.com/Rohan-Yelandur/ml1-final-project
+
 # Datasets
 
 - [fake_users.csv](https://www.kaggle.com/datasets/satishkumarprajapati/fake-social-media-account-detection-dataset?select=fake_users.csv)
